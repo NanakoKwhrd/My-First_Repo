@@ -1,0 +1,55 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+
+
+.topNav{
+  background-color: lightgrey;
+}
+.block_element{
+  
+}
+
+/* target the class of inline-block below */
+.inline-block{
+  display: inline-block;
+  padding: 15px;
+  background-color: grey;
+
+}
+/* target the class of .left below */
+.left{
+  height:500px;
+  float:left;
+  background-color: lightgrey;
+  width: 30%;
+
+  
+}
+/* target the class of .right below */
+.right{
+  height:500px;
+  float:left;
+  background-color: lightgrey;
+  width: 70%;
+}
+
+#top{
+  height: 50px;
+
+}
+
+#top2{
+  height:100px;
+}
+
+.leftTop{
+  background-color: lightpink;
+  height:350px;
+
+}
+
+#view {
+  height:70px;
+}
